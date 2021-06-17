@@ -1,0 +1,2 @@
+# saharastakingtestnet
+testnet pool
